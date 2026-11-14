@@ -1,4 +1,4 @@
-# SQL-Warehouse-Project
+<img width="1694" height="933" alt="image" src="https://github.com/user-attachments/assets/c8f79779-e0c8-4938-9c5d-6bac1a7e8ae4" /># SQL-Warehouse-Project
 
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
@@ -107,6 +107,10 @@ Both dimension tables have a **one-to-many relationship** with the fact table.
 The total sales amount is calculated as:
 
 `Sales Amount = Quantity × Price`
+
+
+
+<img width="1694" height="933" alt="image" src="https://github.com/user-attachments/assets/b4a60c77-8ce2-4648-b6f5-5b61a2543460" />
 
 
 
