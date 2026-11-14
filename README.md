@@ -1,4 +1,4 @@
-<img width="1694" height="933" alt="image" src="https://github.com/user-attachments/assets/c8f79779-e0c8-4938-9c5d-6bac1a7e8ae4" /># SQL-Warehouse-Project
+
 
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
@@ -108,7 +108,9 @@ The total sales amount is calculated as:
 
 `Sales Amount = Quantity × Price`
 
+-- here is an ilustration for the above.
 
+--The diagram illustrates the Star Schema implemented in the Gold Layer of the data warehouse. It shows how the central sales fact view connects to the customer and product dimension views through surrogate keys, enabling efficient analysis of sales performance across different customers and products.
 
 <img width="1694" height="933" alt="image" src="https://github.com/user-attachments/assets/b4a60c77-8ce2-4648-b6f5-5b61a2543460" />
 
